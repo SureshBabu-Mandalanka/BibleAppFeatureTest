@@ -12,7 +12,15 @@
       "Bash(git rm *)",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(git config *)"
+      "Bash(git config *)",
+      "Bash(/opt/homebrew/bin/gh repo *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(git fetch *)",
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(npx gh-pages *)",
+      "Bash(/opt/homebrew/bin/gh api *)"
     ]
   }
 }
